@@ -1,0 +1,187 @@
+{
+  "name": "Igor Terroso",
+  "label": "Quality Assurance Manager",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "igor.terroso@gmail.com",
+    "phone": "",
+    "location": "Oporto, PT"
+  },
+  "summary": "I am a Portuguese engineer with a strong background in telecommunications and quality assurance. Since 2002, I have been working in the IT consulting sector, focusing on system testing and quality assurance. Over the years, I developed skills in leading people and managing projects.",
+  "url": "https://igorterroso.github.io/",
+  "social_links": [
+    {
+      "label": "igorterroso.github.io",
+      "url": "https://igorterroso.github.io/",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://youtube.com/c/igorterroso",
+      "svg_path": "img/youtube.svg"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/igorterroso",
+      "svg_path": "img/instagram.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/igorterroso",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "INESC (Institute for Engineering and Computer Systems)",
+      "position": "Optical Communications Researcher",
+      "url": "https://www.inesctec.pt/pt",
+      "start_date": "2002",
+      "end_date": "2003",
+      "summary": "",
+      "highlights": [
+        "Wrote several papers on optical communications",
+        "Submitted a patent on a new optical communications system",
+        "Assistant Lecturer at the University of Porto"
+      ]
+    },
+    {
+      "company": "Siemens S.A.",
+      "position": "Quality Assurance Tester",
+      "url": "https://www.siemens.com/pt/pt.html",
+      "start_date": "2003",
+      "end_date": "2006",
+      "summary": "",
+      "highlights": [
+        "Testing of Optical Communications Systems",
+        "Responsible for Testing the Surpass hiT7500 Optical Transport Platform Optical Interfaces"
+      ]
+    },
+    {
+      "company": "Nokia Siemens Networks",
+      "position": "Quality Assurance Engineer & Line Manager",
+      "url": "https://www.matricinnovates.com/",
+      "start_date": "2006",
+      "end_date": "2014",
+      "summary": "",
+      "highlights": [
+        "Responsible for a team of 8 Optical Test Engineers",
+        "Responsible for the Optical Testing Laboratory",
+        "Trainer on Optical Communications Systems",
+        "Leading the team testing all the optical interfaces for the Transport Platforms"
+      ]
+    },
+    {
+      "company": "Coriant",
+      "position": "Line Manager",
+      "url": "https://www.coriant.com/",
+      "start_date": "2014",
+      "end_date": "2016",
+      "summary": "",
+      "highlights": [
+        "Responsible for the Quality Assurance Team",
+        "Leading the team testing all the optical interfaces all the Optical Platforms",
+        "Responsible for the Optical Testing Laboratory",
+        "Laser Security Officer and Certified Trainer"
+      ]
+    },
+    {
+      "company": "Celfocus",
+      "position": "Quality Assurance Manager",
+      "url": "https://www.celfocus.com/",
+      "start_date": "2016",
+      "end_date": "present",
+      "summary": "",
+      "highlights": [
+        "Responsible for the Quality Assurance Team in Oporto",
+        "Leading Automation and Performance Testing Chapter",
+        "Responsible Celfocus Automation Testing Framework (ATF)",
+        "ISTQB Trainer"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Optical Cross-Connect based on Fiber Bragg Gratings",
+      "summary": "This project aimed to develop a new Optical Cross-Connect based on Fiber Bragg Gratings. The project was developed in the Optical Communications Group of INESC.",
+      "url": "https://www.inesctec.pt/pt",
+      "highlights": []
+    }
+      ],
+  "volunteer_experience": [
+    {
+      "organization": "Ginásio Clube Vilacondense",
+      "position": "Karate Instructor",
+      "url": "https://www.gcv.pt/",
+      "start_date": "1998",
+      "end_date": "2003",
+      "summary": "Trained Kids and Adults in Karate",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Power Education",
+      "location": "Online",
+      "url": "https://www.thepowermba.com/en",
+      "degrees": [
+        "Power MBA"
+      ],
+      "honors": [
+        "2020 Graduated with Excellence"
+      ],
+      "graduation_date": "2020"
+    },
+    {
+      "institution": "Faculty of Engineering of the University of Oporto",
+      "location": "Oporto, PT",
+      "url": "https://fe.up.pt/",
+      "degrees": [
+        "MsC in Electrotechnical Engineering and Computer Systems",
+        "Specialty in Telecommunications"
+      ],
+      "honors": [
+        "2002 Top 10% of the class",
+        "2002 Final Project (IP over DWDM) with a grade of 19 out of 20"
+      ],
+      "grade_cumulative": "15.45",
+      "gpa_major": "16",
+      "graduation_date": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Test Management, Test Design, Test Strategy",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Python, Linux",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "Project Management, Budgeting, Estimation",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Basketball",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/ww1.jpg",
+          "caption": "One of the founding members of the Clube Desportivo José Régio (CDJR) Basketball Team"
+        },
+        {
+          "img_path": "portfolio_media/ww2.jpg",
+          "caption": "Founders of the 24 Hours 3x3 Basketball Tournament in Vila do Conde"
+        }
+      ]
+    }
+  ],
+  "languages": ["Portuguese", "English"],
+  "references": []
+}
