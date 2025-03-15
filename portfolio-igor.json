@@ -33,42 +33,17 @@
   ],
   "work_experience": [
     {
-      "company": "INESC (Institute for Engineering and Computer Systems)",
-      "position": "Optical Communications Researcher",
-      "url": "https://www.inesctec.pt/pt",
-      "start_date": "2002",
-      "end_date": "2003",
+      "company": "Celfocus",
+      "position": "Quality Assurance Manager",
+      "url": "https://www.celfocus.com/",
+      "start_date": "2016",
+      "end_date": "present",
       "summary": "",
       "highlights": [
-        "Wrote several papers on optical communications",
-        "Submitted a patent on a new optical communications system",
-        "Assistant Lecturer at the University of Porto"
-      ]
-    },
-    {
-      "company": "Siemens S.A.",
-      "position": "Quality Assurance Tester",
-      "url": "https://www.siemens.com/pt/pt.html",
-      "start_date": "2003",
-      "end_date": "2006",
-      "summary": "",
-      "highlights": [
-        "Testing of Optical Communications Systems",
-        "Responsible for Testing the Surpass hiT7500 Optical Transport Platform Optical Interfaces"
-      ]
-    },
-    {
-      "company": "Nokia Siemens Networks",
-      "position": "Quality Assurance Engineer & Line Manager",
-      "url": "https://www.matricinnovates.com/",
-      "start_date": "2006",
-      "end_date": "2014",
-      "summary": "",
-      "highlights": [
-        "Responsible for a team of 8 Optical Test Engineers",
-        "Responsible for the Optical Testing Laboratory",
-        "Trainer on Optical Communications Systems",
-        "Leading the team testing all the optical interfaces for the Transport Platforms"
+        "Responsible for the Quality Assurance Team in Oporto",
+        "Leading Automation and Performance Testing Chapter",
+        "Responsible Celfocus Automation Testing Framework (ATF)",
+        "ISTQB Trainer"
       ]
     },
     {
@@ -86,17 +61,42 @@
       ]
     },
     {
-      "company": "Celfocus",
-      "position": "Quality Assurance Manager",
-      "url": "https://www.celfocus.com/",
-      "start_date": "2016",
-      "end_date": "present",
+      "company": "Nokia Siemens Networks",
+      "position": "Quality Assurance Engineer & Line Manager",
+      "url": "https://www.matricinnovates.com/",
+      "start_date": "2006",
+      "end_date": "2014",
       "summary": "",
       "highlights": [
-        "Responsible for the Quality Assurance Team in Oporto",
-        "Leading Automation and Performance Testing Chapter",
-        "Responsible Celfocus Automation Testing Framework (ATF)",
-        "ISTQB Trainer"
+        "Responsible for a team of 8 Optical Test Engineers",
+        "Responsible for the Optical Testing Laboratory",
+        "Trainer on Optical Communications Systems",
+        "Leading the team testing all the optical interfaces for the Transport Platforms"
+      ]
+    },
+    {
+      "company": "Siemens S.A.",
+      "position": "Quality Assurance Tester",
+      "url": "https://www.siemens.com/pt/pt.html",
+      "start_date": "2003",
+      "end_date": "2006",
+      "summary": "",
+      "highlights": [
+        "Testing of Optical Communications Systems",
+        "Responsible for Testing the Surpass hiT7500 Optical Transport Platform Optical Interfaces"
+      ]
+    },
+    {
+      "company": "INESC (Institute for Engineering and Computer Systems)",
+      "position": "Optical Communications Researcher",
+      "url": "https://www.inesctec.pt/pt",
+      "start_date": "2002",
+      "end_date": "2003",
+      "summary": "",
+      "highlights": [
+        "Wrote several papers on optical communications",
+        "Submitted a patent on a new optical communications system",
+        "Assistant Lecturer at the University of Porto"
       ]
     }
   ],
